@@ -2,7 +2,6 @@ package com.alvaroschafer.tema7;
 
 
 import com.alvaroschafer.tema7.Ejercicio09.Ejercicio09;
-import com.alvaroschafer.tema7.Ejercicio10.Ejercicio10;
 
 import java.util.Scanner;
 import java.util.Random;
@@ -20,7 +19,10 @@ public class Main {
         Ejercicio06 ejercicio06 = new Ejercicio06();
         Ejercicio07 ejercicio07 = new Ejercicio07();
         Ejercicio08 ejercicio08 = new Ejercicio08();*/
-        //Ejercicio09 ejercicio09 = new Ejercicio09();
-        Ejercicio10 ejercicio10 = new Ejercicio10();
+        Ejercicio09 ejercicio09 = new Ejercicio09();
+        //Ejercicio10 ejercicio10 = new Ejercicio10();
+        //Ejercicio11 ejercicio11 = new Ejercicio11();
+        //Ejercicio12 ejercicio12 = new Ejercicio12();
+
     }
 }

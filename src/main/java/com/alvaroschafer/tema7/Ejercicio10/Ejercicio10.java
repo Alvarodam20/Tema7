@@ -10,7 +10,7 @@ public class Ejercicio10 {
         palabra = Main.lector.nextLine();
     }
 
-    public static boolean palabraPolindrom(String palabra) {
+    public static boolean palabraPalindrom(String palabra) {
         if (palabra.charAt()) {
 
         }
