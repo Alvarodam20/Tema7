@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 //TODO Acabar ejercicio!!
 package com.alvaroschafer.tema7.Ejercicio11;
 
@@ -22,3 +23,12 @@ public class Ejercicio11 {
         System.out.println(nombreCompleto);
     }
 }
+=======
+package com.alvaroschafer.tema7.Ejercicio11;
+
+public class Ejercicio11 {
+    public Ejercicio11() {
+
+    }
+}
+>>>>>>> master

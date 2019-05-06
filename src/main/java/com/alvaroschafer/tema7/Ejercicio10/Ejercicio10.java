@@ -11,6 +11,7 @@ public class Ejercicio10 {
     }
 
     public static boolean palabraPalindrom(String palabra) {
+<<<<<<< HEAD
         int i = 0;
         int j = palabra.length() - 1;
         while(i < j) {
@@ -22,6 +23,10 @@ public class Ejercicio10 {
                 j--;
             }
             i++;
+=======
+        if (palabra.charAt()) {
+
+>>>>>>> master
         }
         return true;
     }
